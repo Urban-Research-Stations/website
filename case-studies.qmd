@@ -7,63 +7,115 @@ title: "Case Studies"
 ::: {.grid}
 
 ::: {.g-col-4}
+::: {.square}
+::: {.square-content}
+![](https://ebaker.me.uk/imgs/sensor-install.jpg)
+:::
+:::
+### Sensor Network
 
-![](/assets/images/home/2024-new-ponds.jpg)
-
-## Sensor Network
-
-
+Text
 
 :::
   
 ::: {.g-col-4}
-
+::: {.square}
+::: {.square-content}
 ![](/assets/images/home/2024-new-ponds.jpg)
+:::
+:::
+### Environmental DNA
 
-## Environmental DNA
+Text
 
 :::
 
 ::: {.g-col-4}
-
+::: {.square}
+::: {.square-content}
 ![](/assets/images/home/2024-new-ponds.jpg)
+:::
+:::
+### Moth trapping
 
-## Moth trapping
+Text
 
+:::
+
+::: {.g-col-4}
+::: {.square}
+::: {.square-content}
+![](/assets/images/home/2024-new-ponds.jpg)
+:::
+:::
+### Bird transect
+
+Text
+
+:::
+
+::: {.g-col-4}
+::: {.square}
+::: {.square-content}
+![](/assets/images/home/2024-new-ponds.jpg)
+:::
+:::
+### Butterfly transect
+
+Text
+
+:::
+
+::: {.g-col-4}
+::: {.square}
+::: {.square-content}
+![](/assets/images/home/2024-new-ponds.jpg)
+:::
+:::
+### Dragonfly survey
+
+Text
 
 :::
 
 :::
+
 
 ## External Collaborators
 
 ::: {.grid}
 
 ::: {.g-col-4}
-
-![](/assets/images/home/2024-new-ponds.jpg)
-
-## MAARU
+::: {.square}
+::: {.square-content}
+![](/assets/images/case-studies/maaru.png)
+:::
+:::
+### MAARU
 
 Autonomous spatial audio recorders.
 
 :::
   
 ::: {.g-col-4}
-
-![](/assets/images/home/2024-new-ponds.jpg)
-
-## More than Human Community Toolkit
+::: {.square}
+::: {.square-content}
+![](https://ebaker.me.uk/imgs/mthctk-01.jpg)
+:::
+:::
+### More than Human Community Toolkit
 
 Goldsmiths
 
 :::
 
 ::: {.g-col-4}
-
-![](/assets/images/home/2024-new-ponds.jpg)
-
-## Creativity in Design
+::: {.square}
+::: {.square-content}
+![](/assets/images/case-studies/creativity-design.png)
+:::
+:::
+### Creativity in Design
 
 City St George
 

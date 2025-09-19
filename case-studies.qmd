@@ -1,0 +1,72 @@
+---
+title: "Case Studies"
+---
+
+## NHM Projects
+
+::: {.grid}
+
+::: {.g-col-4}
+
+![](/assets/images/home/2024-new-ponds.jpg)
+
+## Sensor Network
+
+
+
+:::
+  
+::: {.g-col-4}
+
+![](/assets/images/home/2024-new-ponds.jpg)
+
+## Environmental DNA
+
+:::
+
+::: {.g-col-4}
+
+![](/assets/images/home/2024-new-ponds.jpg)
+
+## Moth trapping
+
+
+:::
+
+:::
+
+## External Collaborators
+
+::: {.grid}
+
+::: {.g-col-4}
+
+![](/assets/images/home/2024-new-ponds.jpg)
+
+## MAARU
+
+Autonomous spatial audio recorders.
+
+:::
+  
+::: {.g-col-4}
+
+![](/assets/images/home/2024-new-ponds.jpg)
+
+## More than Human Community Toolkit
+
+Goldsmiths
+
+:::
+
+::: {.g-col-4}
+
+![](/assets/images/home/2024-new-ponds.jpg)
+
+## Creativity in Design
+
+City St George
+
+:::
+
+:::

@@ -1,0 +1,106 @@
+---
+title: ""
+toc: false
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+
+![](/assets/images/home/2024-new-ponds.jpg)
+
+:::
+  
+::: {.g-col-8}
+
+### *By 20250, nearly 70% of people will live in cities*
+
+We study how we can make cities better places for people and for nature.
+
+Our vision is of a future where both people and planet thrive.
+
+:::
+  
+::: {.g-col-8}
+
+### *30 years of research*
+
+In 2025 we will have been studying the Museum's gardens for thirty years. Regular biodiversity surveys by Museum staff and others make it one one of the most intensively studied urban sites worldwide.
+
+:::
+
+::: {.g-col-4}
+
+![](/assets/images/home/2024-new-ponds.jpg)
+
+:::
+
+
+
+::: {.g-col-4}
+
+![](/assets/images/home/2024-new-ponds.jpg)
+
+:::
+  
+::: {.g-col-8}
+
+### *A living laboratory*
+
+Our gardens are a place where we experiment with new techniques and evaluate new methodologies to better understand how we can restore biodiveristy and create resilient ecosystems.
+
+Our gardens and research infrastructres are open to Museum staff and external collaborators for research and teaching.
+
+:::
+  
+::: {.g-col-8}
+
+### *Training the next generation*
+
+Some text.
+
+:::
+
+::: {.g-col-4}
+
+![](/assets/images/home/2024-new-ponds.jpg)
+
+:::
+
+
+
+
+::: {.g-col-4}
+
+![](/assets/images/home/2024-new-ponds.jpg)
+
+:::
+  
+::: {.g-col-8}
+
+### *Integrating diverse datasets*
+
+Data ecosystem
+
+:::
+  
+::: {.g-col-8}
+
+### *Leading change*
+
+SKENZEN
+
+Something on policy.
+
+:::
+
+::: {.g-col-4}
+
+![](/assets/images/home/2024-new-ponds.jpg)
+
+:::
+
+
+
+
+:::

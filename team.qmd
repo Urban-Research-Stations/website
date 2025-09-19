@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Team"
 ---
 
-About this site
+The Team

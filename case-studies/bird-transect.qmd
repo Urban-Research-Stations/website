@@ -1,0 +1,34 @@
+---
+title: "Bird Transect"
+---
+
+## Overview
+
+Standardized bird transect surveys are conducted regularly in the Nature Discovery Garden to monitor avian diversity and abundance throughout the year.
+
+## Objectives
+
+- Monitor bird species diversity and abundance
+- Track seasonal migration patterns
+- Document breeding activity
+- Assess habitat use by different species
+
+## Methods
+
+[Description of transect routes, survey protocols, recording methods]
+
+## Results
+
+[Current findings on bird species recorded]
+
+## Future Work
+
+[Planned survey expansions and analysis]
+
+## Team
+
+[List of team members involved in this project]
+
+## Publications
+
+[Any publications or reports related to this work]

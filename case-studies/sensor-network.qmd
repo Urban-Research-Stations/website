@@ -1,0 +1,34 @@
+---
+title: "Sensor Network"
+---
+
+## Overview
+
+The sensor network project involves deploying environmental monitoring sensors throughout the Nature Discovery Garden to collect real-time data on various environmental parameters.
+
+## Objectives
+
+- Monitor environmental conditions continuously
+- Collect data on temperature, humidity, air quality, and other parameters
+- Provide data for research and public engagement
+- Support evidence-based garden management decisions
+
+## Methods
+
+[Description of sensor types, deployment locations, data collection protocols]
+
+## Results
+
+[Current findings and data visualizations]
+
+## Future Work
+
+[Planned expansions and improvements to the sensor network]
+
+## Team
+
+[List of team members involved in this project]
+
+## Publications
+
+[Any publications or reports related to this work]

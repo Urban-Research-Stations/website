@@ -1,0 +1,42 @@
+---
+title: "MAARU - Autonomous Spatial Audio Recorders"
+---
+
+## Overview
+
+MAARU (Autonomous Spatial Audio Recorders) is a collaboration focused on deploying autonomous audio recording devices to monitor soundscapes and wildlife acoustic activity in the Nature Discovery Garden.
+
+## Objectives
+
+- Monitor acoustic environments and soundscapes
+- Detect and identify wildlife through acoustic signatures
+- Study the impact of urban noise on garden ecosystems
+- Develop automated species identification algorithms
+
+## Technology
+
+[Description of the MAARU recording devices, deployment methods, data processing]
+
+## Methods
+
+[Description of recording protocols, data analysis workflows]
+
+## Results
+
+[Current findings from acoustic monitoring]
+
+## Collaboration
+
+[Details about partners and collaboration structure]
+
+## Future Work
+
+[Planned developments and expansions]
+
+## Team
+
+[List of team members and collaborators]
+
+## Publications
+
+[Any publications or reports related to this work]

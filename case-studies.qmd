@@ -12,9 +12,9 @@ title: "Case Studies"
 ![](https://ebaker.me.uk/imgs/sensor-install.jpg)
 :::
 :::
-### Sensor Network
+### [Sensor Network](case-studies/sensor-network.qmd)
 
-Text
+Environmental monitoring sensors throughout the Nature Discovery Garden collecting real-time data on various environmental parameters.
 
 :::
   
@@ -24,21 +24,9 @@ Text
 ![](/assets/images/home/2024-new-ponds.jpg)
 :::
 :::
-### Environmental DNA
+### [Environmental DNA](case-studies/environmental-dna.qmd)
 
-Text
-
-:::
-
-::: {.g-col-4}
-::: {.square}
-::: {.square-content}
-![](/assets/images/home/2024-new-ponds.jpg)
-:::
-:::
-### Moth trapping
-
-Text
+Using eDNA sampling to detect and monitor biodiversity through genetic material analysis in environmental samples.
 
 :::
 
@@ -48,21 +36,9 @@ Text
 ![](/assets/images/home/2024-new-ponds.jpg)
 :::
 :::
-### Bird transect
+### [Moth Trapping](case-studies/moth-trapping.qmd)
 
-Text
-
-:::
-
-::: {.g-col-4}
-::: {.square}
-::: {.square-content}
-![](/assets/images/home/2024-new-ponds.jpg)
-:::
-:::
-### Butterfly transect
-
-Text
+Regular moth trapping surveys to monitor lepidopteran diversity and abundance, contributing to long-term biodiversity monitoring.
 
 :::
 
@@ -72,7 +48,31 @@ Text
 ![](/assets/images/home/2024-new-ponds.jpg)
 :::
 :::
-### Dragonfly survey
+### [Bird Transect](case-studies/bird-transect.qmd)
+
+Standardized bird transect surveys to monitor avian diversity and abundance throughout the year.
+
+:::
+
+::: {.g-col-4}
+::: {.square}
+::: {.square-content}
+![](/assets/images/home/2024-new-ponds.jpg)
+:::
+:::
+### [Butterfly Transect](case-studies/butterfly-transect.qmd)
+
+Weekly butterfly transect surveys following UK Butterfly Monitoring Scheme protocols to monitor butterfly populations.
+
+:::
+
+::: {.g-col-4}
+::: {.square}
+::: {.square-content}
+![](/assets/images/home/2024-new-ponds.jpg)
+:::
+:::
+### [Dragonfly Survey](case-studies/dragonfly-survey.qmd)
 
 Text
 
@@ -91,9 +91,9 @@ Text
 ![](/assets/images/case-studies/maaru.png)
 :::
 :::
-### MAARU
+### [MAARU](case-studies/maaru.qmd)
 
-Autonomous spatial audio recorders.
+Autonomous spatial audio recorders for monitoring soundscapes and wildlife acoustic activity.
 
 :::
   
@@ -103,9 +103,9 @@ Autonomous spatial audio recorders.
 ![](https://ebaker.me.uk/imgs/mthctk-01.jpg)
 :::
 :::
-### More than Human Community Toolkit
+### [More than Human Community Toolkit](case-studies/more-than-human-toolkit.qmd)
 
-Goldsmiths
+Developing tools and methods for engaging communities in more-than-human research. Collaboration with Goldsmiths.
 
 :::
 
@@ -115,7 +115,7 @@ Goldsmiths
 ![](/assets/images/case-studies/creativity-design.png)
 :::
 :::
-### Creativity in Design
+### [Creativity in Design](case-studies/creativity-in-design.qmd)
 
 City St George
 

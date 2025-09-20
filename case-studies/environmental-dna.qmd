@@ -1,0 +1,34 @@
+---
+title: "Environmental DNA"
+---
+
+## Overview
+
+Environmental DNA (eDNA) sampling is used to detect and monitor biodiversity in the Nature Discovery Garden by analyzing genetic material present in environmental samples.
+
+## Objectives
+
+- Detect species presence through DNA analysis of soil and water samples
+- Monitor biodiversity changes over time
+- Identify cryptic species that may be missed by traditional survey methods
+- Complement traditional ecological survey techniques
+
+## Methods
+
+[Description of sampling protocols, DNA extraction methods, sequencing approaches]
+
+## Results
+
+[Current findings on species detected through eDNA]
+
+## Future Work
+
+[Planned sampling campaigns and method improvements]
+
+## Team
+
+[List of team members involved in this project]
+
+## Publications
+
+[Any publications or reports related to this work]

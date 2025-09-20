@@ -1,0 +1,34 @@
+---
+title: "Dragonfly Survey"
+---
+
+## Overview
+
+Targeted dragonfly and damselfly surveys are conducted around the pond areas and water features in the Nature Discovery Garden to monitor Odonata diversity.
+
+## Objectives
+
+- Monitor dragonfly and damselfly species diversity
+- Assess pond ecosystem health
+- Document breeding activity and larval development
+- Track the success of pond habitat creation
+
+## Methods
+
+[Description of survey protocols, identification methods, recording systems]
+
+## Results
+
+[Current findings on dragonfly species recorded]
+
+## Future Work
+
+[Planned habitat improvements and survey expansions]
+
+## Team
+
+[List of team members involved in this project]
+
+## Publications
+
+[Any publications or reports related to this work]

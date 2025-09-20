@@ -1,0 +1,34 @@
+---
+title: "Butterfly Transect"
+---
+
+## Overview
+
+Weekly butterfly transect surveys follow standardized UK Butterfly Monitoring Scheme protocols to monitor butterfly populations in the Nature Discovery Garden.
+
+## Objectives
+
+- Monitor butterfly species diversity and abundance
+- Track population trends over time
+- Assess the effectiveness of habitat management
+- Contribute to national butterfly monitoring efforts
+
+## Methods
+
+[Description of transect routes, survey protocols, weather requirements]
+
+## Results
+
+[Current findings on butterfly species recorded]
+
+## Future Work
+
+[Planned survey expansions and habitat improvements]
+
+## Team
+
+[List of team members involved in this project]
+
+## Publications
+
+[Any publications or reports related to this work]

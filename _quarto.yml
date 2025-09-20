@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Urban Research Station"
+  title: "Urban Research Station<br><span style='font-size: x-small;'>at the Natural History Museum</span>"
   navbar:
     left:
       - href: index.qmd

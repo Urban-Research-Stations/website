@@ -9,7 +9,11 @@ website:
       - href: index.qmd
         text: Home
       - case-studies.qmd
-      - publications.qmd
+      - text: Publications
+        menu:
+          - href: publications.qmd
+            text: Articles
+          - implementation-reports.qmd
       - team.qmd
 
 format:

@@ -69,7 +69,7 @@ Weekly butterfly transect surveys following UK Butterfly Monitoring Scheme proto
 ::: {.g-col-4}
 ::: {.square}
 ::: {.square-content}
-![](/assets/images/home/2024-new-ponds.jpg)
+![](/assets/images/case-studies/odonata.jpg)
 :::
 :::
 ### [Dragonfly Survey](case-studies/dragonfly-survey.qmd)
@@ -118,6 +118,18 @@ Developing tools and methods for engaging communities in more-than-human researc
 ### [Creativity in Design](case-studies/creativity-in-design.qmd)
 
 City St George
+
+:::
+
+::: {.g-col-4}
+::: {.square}
+::: {.square-content}
+![](/assets/images/case-studies/bioscan.jpg)
+:::
+:::
+### [BioSCAN](case-studies/bioscan.qmd)
+
+External biodiversity monitoring collaboration.
 
 :::
 

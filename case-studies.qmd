@@ -21,7 +21,7 @@ Environmental monitoring sensors throughout the Nature Discovery Garden collecti
 ::: {.g-col-4}
 ::: {.square}
 ::: {.square-content}
-![](/assets/images/home/2024-new-ponds.jpg)
+![](/assets/images/home/edna.jpg)
 :::
 :::
 ### [Environmental DNA](case-studies/environmental-dna.qmd)

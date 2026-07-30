@@ -4,8 +4,6 @@ title: "Team"
 
 ## NHM Living Labs
 
-### Urban Research Station
-
 ::: {.grid}
 
 ::: {.g-col-4}
@@ -33,6 +31,8 @@ Role
 :::
 
 :::
+
+### Urban Research Station
 
 ### Tring
 

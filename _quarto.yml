@@ -32,6 +32,7 @@ website:
       - text: Studies
         menu:
           - href: case-studies.qmd
+          - href: student-projects.qmd
       - text: Trees
         menu:
             - href: trees/index.qmd

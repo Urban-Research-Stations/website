@@ -1,0 +1,17 @@
+---
+title: "Soil Biodiversity"
+---
+
+## Overview
+
+This student project investigates soil biodiversity across the Living Labs sites.
+
+## Focus
+
+- Soil invertebrates and microbial diversity
+- Sampling design across habitats
+- Links between biodiversity and soil condition
+
+## Methods
+
+Students combine field collection, lab identification, and data analysis to build an evidence base for soil health.

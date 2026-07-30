@@ -1,0 +1,17 @@
+---
+title: "Hydrology"
+---
+
+## Overview
+
+This student project explores hydrological processes across the Living Labs environments.
+
+## Focus
+
+- Surface water flow and storage
+- Seasonal variation in moisture and water quality
+- Interactions between vegetation, soils, and water
+
+## Methods
+
+Students use repeat measurements and environmental sensors to track water dynamics and interpret change.

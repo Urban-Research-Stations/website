@@ -1,0 +1,17 @@
+---
+title: "AI Pollinator Camera"
+---
+
+## Overview
+
+This student project develops an AI-assisted workflow for monitoring pollinators with camera data.
+
+## Focus
+
+- Camera-based detection of pollinator visits
+- Model-assisted identification of taxa
+- Temporal patterns in pollinator activity
+
+## Methods
+
+Students design data collection protocols, annotate image data, and evaluate model performance for ecological monitoring.

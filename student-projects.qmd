@@ -1,0 +1,57 @@
+---
+title: "Student Projects"
+---
+
+## Current Projects
+
+::: {.grid}
+
+::: {.g-col-4}
+::: {.square}
+::: {.square-content}
+![](/assets/images/home/2024-new-ponds.jpg)
+:::
+:::
+### [Soil Biodiversity](student-projects/soil-biodiversity.qmd)
+
+Student-led investigations of soil biodiversity using field sampling, microscopy, and DNA-based approaches.
+
+:::
+
+::: {.g-col-4}
+::: {.square}
+::: {.square-content}
+![](/assets/images/home/2024-new-ponds.jpg)
+:::
+:::
+### [Hydrology](student-projects/hydrology.qmd)
+
+Monitoring water movement and quality across the site to understand seasonal and weather-driven change.
+
+:::
+
+::: {.g-col-4}
+::: {.square}
+::: {.square-content}
+![](/assets/images/home/2024-new-ponds.jpg)
+:::
+:::
+### [Responses to Nature](student-projects/responses-to-nature.qmd)
+
+Exploring how people and communities observe, interpret, and respond to nature through creative research methods.
+
+:::
+
+::: {.g-col-4}
+::: {.square}
+::: {.square-content}
+![](/assets/images/home/2024-new-ponds.jpg)
+:::
+:::
+### [AI Pollinator Camera](student-projects/ai-pollinator-camera.qmd)
+
+Using camera traps and machine learning workflows to detect and classify pollinator activity over time.
+
+:::
+
+:::

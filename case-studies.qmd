@@ -33,7 +33,7 @@ Using eDNA sampling to detect and monitor biodiversity through genetic material 
 ::: {.g-col-4}
 ::: {.square}
 ::: {.square-content}
-![](/assets/images/home/2024-new-ponds.jpg)
+![](/assets/images/case-studies/moth-trapping.jpg)
 :::
 :::
 ### [Moth Trapping](case-studies/moth-trapping.qmd)

@@ -17,6 +17,20 @@
   height: 100%;
 }
 
+/* Force card thumbnails to use a consistent square crop */
+.square-content > p {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.square-content img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 /* PDF download link styling */
 .pdf-download {
   text-align: right;

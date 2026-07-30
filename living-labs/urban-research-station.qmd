@@ -88,7 +88,7 @@ We run training, internships and practical projects for students and early-caree
 
 ::: {.g-col-4}
 
-![](/assets/images/home/2024-new-ponds.jpg)
+![](/assets/images/lidar.png)
 
 :::
 

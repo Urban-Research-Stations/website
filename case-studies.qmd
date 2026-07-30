@@ -45,7 +45,7 @@ Regular moth trapping surveys to monitor lepidopteran diversity and abundance, c
 ::: {.g-col-4}
 ::: {.square}
 ::: {.square-content}
-![](/assets/images/home/2024-new-ponds.jpg)
+![](/assets/images/home/sparrowhawk.jpg)
 :::
 :::
 ### [Bird Transect](case-studies/bird-transect.qmd)
